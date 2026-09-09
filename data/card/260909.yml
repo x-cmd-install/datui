@@ -1,0 +1,146 @@
+about:
+  description: "Data Exploration in the Terminal"
+  license: MIT
+  homepage: https://derekwisong.github.io/datui/
+  head: bfde0b1
+  archived: false
+  latestVersion: "v0.2.56"
+  latestRelease: "v0.2.56"
+  latestPrerelease: "dev"
+  collectedAt: 2026-09-09T05:21:35Z
+timeline:
+  created: 2026-01-18
+  lastCommit: 2026-09-09
+  lastVersion: 2026-08-11
+  lastRelease: 2026-08-11
+  lastPrerelease: 2026-02-02
+popularity:
+  star: 133
+  watcher: 2
+  fork: 5
+  release: 51
+  contributor: 4
+  pullRequest: 47
+  issue: 8
+language:
+  Rust: 2221788
+  Python: 150738
+  Jinja: 24524
+  Shell: 12414
+  Tape: 10201
+  Go Template: 3641
+  Dockerfile: 288
+totalBytes: 2423594
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 1
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 7
+  last60d:
+    since: 2026-07-11
+    release: 1
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 11
+  last90d:
+    since: 2026-06-11
+    release: 1
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 11
+  last180d:
+    since: 2026-03-13
+    release: 6
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 3
+    openIssue: 0
+    commit: 33
+  last360d:
+    since: 2025-09-14
+    release: 51
+    mergedPR: 44
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 356
+  last720d:
+    since: 2024-09-19
+    release: 51
+    mergedPR: 44
+    openPR: 0
+    closedIssue: 8
+    openIssue: 0
+    commit: 357
+total:
+  release: 51
+  mergedPR: 44
+  openPR: 0
+  closedIssue: 8
+  openIssue: 0
+  commit: 357
+---
+path: /home/runner/.x-repo/github.com/derekwisong/datui
+collectedAt: 2026-09-09T05:21:40Z
+loc:
+  Rust:
+    code: 48981
+    comments: 2721
+    blanks: 4539
+    files: 79
+  Python:
+    code: 3232
+    comments: 230
+    blanks: 631
+    files: 14
+  Jinja2:
+    code: 626
+    comments: 0
+    blanks: 78
+    files: 1
+  Sh:
+    code: 280
+    comments: 65
+    blanks: 59
+    files: 7
+  Toml:
+    code: 271
+    comments: 21
+    blanks: 34
+    files: 6
+  Pan:
+    code: 46
+    comments: 32
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 8
+    comments: 1
+    blanks: 7
+    files: 2
+  Markdown:
+    code: 0
+    comments: 2867
+    blanks: 1309
+    files: 43
+  Text:
+    code: 0
+    comments: 350
+    blanks: 68
+    files: 20
+total:
+  code: 54022
+  comments: 8401
+  blanks: 6994
+  files: 173
+---
+
+---
