@@ -4,13 +4,35 @@
 
 Data Exploration in the Terminal
 
-![datui](https://repo.x-cmd.io/datui.svg)
+![datui](https://repo.x-cmd.io/datui.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install datui
 ```
+
+## 代码规模
+
+合计: **55,305** 行代码（覆盖前 5 种语言、共 **123** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 50,322 | 2,915 | 4,760 | 90 |
+| Python | 3,560 | 259 | 684 | 15 |
+| Jinja2 | 626 | 0 | 78 | 1 |
+| Toml | 380 | 115 | 60 | 8 |
+| Sh | 359 | 123 | 76 | 9 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.7 / 10**
+
+评分最低的几项:
+
+- **Code-Review** (0/10) — Found 0/16 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## 源代码
 
@@ -23,7 +45,6 @@ x install datui
 - **最新版本**: `v0.3.1` (2026-09-09)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 11 个
-- **发布时间**: 2026-09-09T13:32:36Z
 
 ## 流行度
 
@@ -31,37 +52,38 @@ x install datui
 
 ## 累计统计
 
-- **发布数**: 53 · **已合并 PR**: 85 · **开放 PR**: 1 · **已关闭 issue**: 8 · **开放 issue**: 1 · **提交数**: 402
+- **发布数**: 53 · **已合并 PR**: 87 · **开放 PR**: 0 · **已关闭 issue**: 8 · **开放 issue**: 1 · **提交数**: 404
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 43 | 1 | 0 | 1 | 52 |
-| 90d | 2026-06-12 | 3 | 46 | 1 | 1 | 1 | 56 |
-| 360d | 2025-09-15 | 53 | 85 | 1 | 8 | 1 | 401 |
+| 30d | 2026-08-11 | 3 | 45 | 0 | 0 | 1 | 54 |
+| last60d | 2026-07-12 | 3 | 48 | 0 | 1 | 1 | 58 |
+| 90d | 2026-06-12 | 3 | 48 | 0 | 1 | 1 | 58 |
+| last180d | 2026-03-14 | 8 | 61 | 0 | 3 | 1 | 80 |
+| 360d | 2025-09-15 | 53 | 87 | 0 | 8 | 1 | 403 |
+| last720d | 2024-09-20 | 53 | 87 | 0 | 8 | 1 | 404 |
 
-## 代码规模
+## Release 资产
 
-合计: **54,948** 行代码（覆盖前 5 种语言、共 **116** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [datui-0.3.1-1.x86_64.rpm](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-1.x86_64.rpm) | 18.4 MiB | `runtime/rpm/x86_64` |
+| [datui-0.3.1-cp38-abi3-macosx_10_12_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-cp38-abi3-macosx_10_12_x86_64.whl) | 56.4 MiB | `native/darwin/x64` |
+| [datui-0.3.1-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-cp38-abi3-macosx_11_0_arm64.whl) | 53.2 MiB | `native/darwin/arm64` |
+| [datui-0.3.1-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-cp38-abi3-manylinux_2_39_x86_64.whl) | 59.2 MiB | `native/linux/x64` |
+| [datui-0.3.1-cp38-abi3-win_amd64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-cp38-abi3-win_amd64.whl) | 55.9 MiB | `other` |
+| [datui-0.3.1-x86_64.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-x86_64.tar.gz) | 25.1 MiB | `native/linux/x64` |
+| [datui-v0.3.1-aarch64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-v0.3.1-aarch64-apple-darwin.tar.gz) | 22.9 MiB | `native/darwin/arm64` |
+| [datui-v0.3.1-windows-x86_64.zip](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-v0.3.1-windows-x86_64.zip) | 26.0 MiB | `native/win/x64` |
+| [datui-v0.3.1-x86_64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-v0.3.1-x86_64-apple-darwin.tar.gz) | 25.0 MiB | `native/darwin/x64` |
+| [datui_0.3.1-1_amd64.deb](https://github.com/derekwisong/datui/releases/download/v0.3.1/datui_0.3.1-1_amd64.deb) | 15.8 MiB | `runtime/deb/amd64` |
+| [PKGBUILD](https://github.com/derekwisong/datui/releases/download/v0.3.1/PKGBUILD) | 858 B | `other` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 50,053 | 2,855 | 4,711 | 85 |
-| Python | 3,560 | 259 | 684 | 15 |
-| Jinja2 | 626 | 0 | 78 | 1 |
-| Toml | 331 | 97 | 50 | 7 |
-| Sh | 320 | 83 | 68 | 8 |
+## 发行版状态
 
-## OpenSSF Scorecard 评分
-
-总评分: **6.2 / 10**
-
-评分最低的几项:
-
-- **Code-Review** (0/10) — Found 0/14 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+在 [repology.org](https://repology.org/project/datui) 上共有 **2** 个发行版报告此项目。**1** 个 ✅ 已是最新上游版本，**1** 个 ⚠️ 使用旧版本。
 
 ## 改进这些数据
 
@@ -72,4 +94,4 @@ datui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:25Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:54:39Z._
