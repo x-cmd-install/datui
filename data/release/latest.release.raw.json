@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 62026971,
       "digest": "sha256:57ab0a96ba3be4f0774a4bb10c718b5aa53e273fd7a0a8d6545d1ad3dc8e817d",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-09T13:32:32Z",
       "updated_at": "2026-09-09T13:32:35Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.1/datui-0.3.1-cp38-abi3-manylinux_2_39_x86_64.whl"
