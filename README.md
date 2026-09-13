@@ -30,7 +30,7 @@ Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.3.2` (2026-09-11)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-13
 - **Assets in release**: 13
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 92 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 409
+- **Releases**: 54 · **Merged PRs**: 94 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 0 · **Commits**: 411
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 50 | 1 | 1 | 0 | 59 |
-| last60d | 2026-07-14 | 4 | 53 | 1 | 2 | 0 | 63 |
-| 90d | 2026-06-14 | 4 | 53 | 1 | 2 | 0 | 63 |
-| last180d | 2026-03-16 | 9 | 66 | 1 | 4 | 0 | 85 |
-| 360d | 2025-09-17 | 54 | 92 | 1 | 9 | 0 | 408 |
-| last720d | 2024-09-22 | 54 | 92 | 1 | 9 | 0 | 409 |
+| 30d | 2026-08-14 | 3 | 52 | 1 | 1 | 0 | 61 |
+| last60d | 2026-07-15 | 4 | 55 | 1 | 2 | 0 | 64 |
+| 90d | 2026-06-15 | 4 | 55 | 1 | 2 | 0 | 65 |
+| last180d | 2026-03-17 | 9 | 68 | 1 | 4 | 0 | 83 |
+| 360d | 2025-09-18 | 54 | 94 | 1 | 9 | 0 | 410 |
+| last720d | 2024-09-23 | 54 | 94 | 1 | 9 | 0 | 411 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:09:06Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:27:06Z._

@@ -30,7 +30,7 @@ x install datui
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/21 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
 
@@ -43,7 +43,7 @@ x install datui
 ## 发布
 
 - **最新版本**: `v0.3.2` (2026-09-11)
-- **最近提交**: 2026-09-11
+- **最近提交**: 2026-09-13
 - **Release 含资产**: 13 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install datui
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 92 · **开放 PR**: 1 · **已关闭 issue**: 9 · **开放 issue**: 0 · **提交数**: 409
+- **发布数**: 54 · **已合并 PR**: 94 · **开放 PR**: 1 · **已关闭 issue**: 9 · **开放 issue**: 0 · **提交数**: 411
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 3 | 50 | 1 | 1 | 0 | 59 |
-| last60d | 2026-07-14 | 4 | 53 | 1 | 2 | 0 | 63 |
-| 90d | 2026-06-14 | 4 | 53 | 1 | 2 | 0 | 63 |
-| last180d | 2026-03-16 | 9 | 66 | 1 | 4 | 0 | 85 |
-| 360d | 2025-09-17 | 54 | 92 | 1 | 9 | 0 | 408 |
-| last720d | 2024-09-22 | 54 | 92 | 1 | 9 | 0 | 409 |
+| 30d | 2026-08-14 | 3 | 52 | 1 | 1 | 0 | 61 |
+| last60d | 2026-07-15 | 4 | 55 | 1 | 2 | 0 | 64 |
+| 90d | 2026-06-15 | 4 | 55 | 1 | 2 | 0 | 65 |
+| last180d | 2026-03-17 | 9 | 68 | 1 | 4 | 0 | 83 |
+| 360d | 2025-09-18 | 54 | 94 | 1 | 9 | 0 | 410 |
+| last720d | 2024-09-23 | 54 | 94 | 1 | 9 | 0 | 411 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ datui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260912.yml` · 2026-09-12T05:09:06Z._
+_数据快照: `data/card/260913.yml` · 2026-09-13T05:27:06Z._
