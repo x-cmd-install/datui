@@ -14,14 +14,14 @@ x install datui
 
 ## 代码洞察
 
-合计: **105,258** 行代码（覆盖前 5 种语言、共 **151** 个文件）。
+合计: **107,152** 行代码（覆盖前 5 种语言、共 **151** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 99,694 | 6,320 | 8,214 | 115 |
+| Rust | 101,587 | 6,733 | 8,346 | 115 |
 | Python | 3,892 | 280 | 735 | 17 |
 | Jinja2 | 647 | 2 | 80 | 1 |
-| Toml | 439 | 142 | 66 | 9 |
+| Toml | 440 | 143 | 66 | 9 |
 | Sh | 395 | 129 | 80 | 9 |
 
 ## OpenSSF Scorecard 评分
@@ -32,7 +32,7 @@ x install datui
 
 - **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
+- **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install datui
 ## 发布
 
 - **最新版本**: `v0.3.2` (2026-09-11)
-- **最近提交**: 2026-09-24
+- **最近提交**: 2026-09-25
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 133 · **Fork**: 5 · **开放 issue**: 58 · **贡献者**: 4
+- **Star**: 133 · **Fork**: 5 · **开放 issue**: 60 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 200 · **开放 PR**: 1 · **已关闭 issue**: 54 · **开放 issue**: 4 · **提交数**: 517
+- **发布数**: 54 · **已合并 PR**: 203 · **开放 PR**: 2 · **已关闭 issue**: 58 · **开放 issue**: 2 · **提交数**: 520
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-26 | 3 | 158 | 1 | 46 | 4 | 166 |
-| last60d | 2026-07-27 | 4 | 160 | 1 | 47 | 4 | 170 |
-| 90d | 2026-06-27 | 4 | 161 | 1 | 47 | 4 | 171 |
-| last180d | 2026-03-29 | 8 | 172 | 1 | 48 | 4 | 189 |
-| 360d | 2025-09-30 | 54 | 200 | 1 | 54 | 4 | 516 |
-| last720d | 2024-10-05 | 54 | 200 | 1 | 54 | 4 | 517 |
+| 30d | 2026-08-27 | 3 | 161 | 2 | 50 | 2 | 169 |
+| last60d | 2026-07-28 | 4 | 163 | 2 | 51 | 2 | 173 |
+| 90d | 2026-06-28 | 4 | 164 | 2 | 51 | 2 | 174 |
+| last180d | 2026-03-30 | 8 | 175 | 2 | 52 | 2 | 192 |
+| 360d | 2025-10-01 | 54 | 203 | 2 | 58 | 2 | 519 |
+| last720d | 2024-10-06 | 54 | 203 | 2 | 58 | 2 | 520 |
 
 ## Release 资产
 
@@ -92,4 +92,4 @@ datui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260925.yml` · 2026-09-25T05:23:06Z._
+_数据快照: `data/card/260926.yml` · 2026-09-26T05:34:36Z._
