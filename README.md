@@ -14,19 +14,19 @@ x install datui
 
 ## Code insight
 
-Total: **277,379** lines of code across **399** files in the top 5 languages.
+Total: **297,380** lines of code across **412** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 267,182 | 10,468 | 17,290 | 346 |
-| Python | 7,731 | 404 | 1,192 | 30 |
-| Toml | 1,239 | 257 | 199 | 12 |
+| Rust | 287,192 | 10,619 | 18,184 | 359 |
+| Python | 7,742 | 404 | 1,192 | 30 |
+| Toml | 1,219 | 256 | 164 | 12 |
 | Sh | 597 | 159 | 91 | 10 |
 | Jinja2 | 419 | 6 | 12 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **7.1 / 10**
+Overall score: **7.2 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.3.2` (2026-09-11)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-05
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 133 · **Forks**: 5 · **Open issues**: 262 · **Contributors**: 4
+- **Stars**: 134 · **Forks**: 5 · **Open issues**: 262 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 442 · **Open PRs**: 2 · **Closed issues**: 258 · **Open issues**: 4 · **Commits**: 759
+- **Releases**: 54 · **Merged PRs**: 460 · **Open PRs**: 0 · **Closed issues**: 260 · **Open issues**: 2 · **Commits**: 777
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-04 | 3 | 400 | 2 | 250 | 4 | 354 |
-| last60d | 2026-08-05 | 4 | 402 | 2 | 250 | 4 | 409 |
-| 90d | 2026-07-06 | 4 | 403 | 2 | 251 | 4 | 413 |
-| last180d | 2026-04-07 | 7 | 413 | 2 | 251 | 4 | 428 |
-| 360d | 2025-10-09 | 54 | 442 | 2 | 258 | 4 | 758 |
-| last720d | 2024-10-14 | 54 | 442 | 2 | 258 | 4 | 759 |
+| 30d | 2026-09-05 | 3 | 418 | 0 | 252 | 2 | 372 |
+| last60d | 2026-08-06 | 4 | 419 | 0 | 252 | 2 | 427 |
+| 90d | 2026-07-07 | 4 | 421 | 0 | 253 | 2 | 431 |
+| last180d | 2026-04-08 | 7 | 431 | 0 | 253 | 2 | 446 |
+| 360d | 2025-10-10 | 54 | 460 | 0 | 260 | 2 | 776 |
+| last720d | 2024-10-15 | 54 | 460 | 0 | 260 | 2 | 777 |
 
 ## Release assets
 
@@ -92,4 +92,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261004.yml` · 2026-10-04T06:18:42Z._
+_Snapshot: `data/card/261005.yml` · 2026-10-05T06:10:00Z._
