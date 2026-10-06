@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 19378861,
       "digest": "sha256:489b7f987c0edc2465b3325271934919fefc7acd3f1cb324064d13a12d821c1a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:08Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-1.x86_64.rpm"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 62526893,
       "digest": "sha256:41df056ebdbc36bddbdeede7a506307420670371d33e57251577c6c23b64dd86",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:10Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-cp38-abi3-manylinux_2_39_x86_64.whl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 26542522,
       "digest": "sha256:61d8adc60f2c2512aa6f3583167aa70a3dc545f7386dce39ab6f7ad3d3b47919",
-      "download_count": 44,
+      "download_count": 47,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:08Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 27488131,
       "digest": "sha256:71d2b87941ad615dbab8fb3b59392483a8ed6ca7bdb5da4c63d4d065f818259b",
-      "download_count": 222,
+      "download_count": 229,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:08Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-v0.3.2-windows-x86_64.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 16679660,
       "digest": "sha256:d5f7aec4104f8d511cc81d4592bffdc172490a9bacda11cb0544d774dff72e7c",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:08Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/datui_0.3.2-1_amd64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 858,
       "digest": "sha256:a557d182f89a35c3012708783a6f704acb1b124ca386c254938852dbf9ba4ab2",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:06Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/PKGBUILD"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 1097,
       "digest": "sha256:7c56474b8ef200cdf18e0f2a6731f50f2e7ddcf72acbece01c075dc2f7a39efe",
-      "download_count": 7,
+      "download_count": 10,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:06Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/SHA256SUMS"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10683,
       "digest": "sha256:1668beac773eed43ca41099870ae06a9b6f85e778dd989af61f75cc630327f09",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-11T20:26:06Z",
       "updated_at": "2026-09-11T20:26:06Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.3.2/SHA256SUMS.sigstore.json"
