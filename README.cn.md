@@ -14,25 +14,25 @@ x install datui
 
 ## 代码洞察
 
-合计: **312,594** 行代码（覆盖前 5 种语言、共 **429** 个文件）。
+合计: **312,639** 行代码（覆盖前 5 种语言、共 **429** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 302,199 | 11,086 | 19,034 | 375 |
+| Rust | 302,173 | 11,084 | 19,033 | 375 |
 | Python | 7,546 | 389 | 1,131 | 28 |
-| Toml | 1,499 | 296 | 192 | 15 |
-| Sh | 712 | 156 | 92 | 10 |
-| Jinja2 | 400 | 4 | 12 | 1 |
+| Toml | 1,508 | 298 | 193 | 15 |
+| Sh | 769 | 146 | 80 | 10 |
+| Jinja2 | 405 | 4 | 12 | 1 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **7.2 / 10**
+总评分: **7.5 / 10**
 
 评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Signed-Releases** (1/10) — 1 out of the last 5 releases have a total of 1 signed artifacts.
+- **Branch-Protection** (4/10) — branch protection is not maximal on development and all release branches
 
 ## 源代码
 
@@ -42,9 +42,9 @@ x install datui
 
 ## 发布
 
-- **最新版本**: `v0.3.2` (2026-09-11)
-- **最近提交**: 2026-10-06
-- **Release 含资产**: 13 个
+- **最新版本**: `v0.4.2` (2026-10-07)
+- **最近提交**: 2026-10-07
+- **Release 含资产**: 17 个
 
 ## 流行度
 
@@ -52,36 +52,40 @@ x install datui
 
 ## 累计统计
 
-- **发布数**: 54 · **已合并 PR**: 468 · **开放 PR**: 0 · **已关闭 issue**: 266 · **开放 issue**: 0 · **提交数**: 785
+- **发布数**: 57 · **已合并 PR**: 481 · **开放 PR**: 0 · **已关闭 issue**: 266 · **开放 issue**: 0 · **提交数**: 798
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 3 | 426 | 0 | 258 | 0 | 380 |
-| last60d | 2026-08-07 | 4 | 427 | 0 | 258 | 0 | 435 |
-| 90d | 2026-07-08 | 4 | 429 | 0 | 259 | 0 | 439 |
-| last180d | 2026-04-09 | 7 | 439 | 0 | 259 | 0 | 454 |
-| 360d | 2025-10-11 | 54 | 468 | 0 | 266 | 0 | 784 |
-| last720d | 2024-10-16 | 54 | 468 | 0 | 266 | 0 | 785 |
+| 30d | 2026-09-07 | 6 | 436 | 0 | 258 | 0 | 393 |
+| last60d | 2026-08-08 | 7 | 439 | 0 | 258 | 0 | 448 |
+| 90d | 2026-07-09 | 7 | 441 | 0 | 259 | 0 | 452 |
+| last180d | 2026-04-10 | 10 | 451 | 0 | 259 | 0 | 467 |
+| 360d | 2025-10-12 | 57 | 480 | 0 | 266 | 0 | 797 |
+| last720d | 2024-10-17 | 57 | 480 | 0 | 266 | 0 | 798 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [datui-0.3.2-1.x86_64.rpm](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-1.x86_64.rpm) | 18.5 MiB | `runtime/rpm/x86_64` |
-| [datui-0.3.2-cp38-abi3-macosx_10_12_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-cp38-abi3-macosx_10_12_x86_64.whl) | 56.8 MiB | `native/darwin/x64` |
-| [datui-0.3.2-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-cp38-abi3-macosx_11_0_arm64.whl) | 53.7 MiB | `native/darwin/arm64` |
-| [datui-0.3.2-cp38-abi3-manylinux_2_39_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-cp38-abi3-manylinux_2_39_x86_64.whl) | 59.6 MiB | `native/linux/x64` |
-| [datui-0.3.2-cp38-abi3-win_amd64.whl](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-cp38-abi3-win_amd64.whl) | 56.4 MiB | `other` |
-| [datui-0.3.2-x86_64.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-0.3.2-x86_64.tar.gz) | 25.3 MiB | `native/linux/x64` |
-| [datui-v0.3.2-aarch64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-v0.3.2-aarch64-apple-darwin.tar.gz) | 23.1 MiB | `native/darwin/arm64` |
-| [datui-v0.3.2-windows-x86_64.zip](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-v0.3.2-windows-x86_64.zip) | 26.2 MiB | `native/win/x64` |
-| [datui-v0.3.2-x86_64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui-v0.3.2-x86_64-apple-darwin.tar.gz) | 25.2 MiB | `native/darwin/x64` |
-| [datui_0.3.2-1_amd64.deb](https://github.com/derekwisong/datui/releases/download/v0.3.2/datui_0.3.2-1_amd64.deb) | 15.9 MiB | `runtime/deb/amd64` |
-| [PKGBUILD](https://github.com/derekwisong/datui/releases/download/v0.3.2/PKGBUILD) | 858 B | `other` |
-| [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.3.2/SHA256SUMS) | 1.1 KiB | `other` |
-| [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.3.2/SHA256SUMS.sigstore.json) | 10.4 KiB | `other` |
+| [datui-0.4.2-1.aarch64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-1.aarch64.rpm) | 25.2 MiB | `runtime/rpm/aarch64` |
+| [datui-0.4.2-1.x86_64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-1.x86_64.rpm) | 27.5 MiB | `runtime/rpm/x86_64` |
+| [datui-0.4.2-cp38-abi3-macosx_10_12_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-cp38-abi3-macosx_10_12_x86_64.whl) | 90.7 MiB | `native/darwin/x64` |
+| [datui-0.4.2-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-cp38-abi3-macosx_11_0_arm64.whl) | 86.1 MiB | `native/darwin/arm64` |
+| [datui-0.4.2-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-cp38-abi3-manylinux_2_28_aarch64.whl) | 78.7 MiB | `native/linux/arm64` |
+| [datui-0.4.2-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-cp38-abi3-manylinux_2_28_x86_64.whl) | 84.1 MiB | `native/linux/x64` |
+| [datui-0.4.2-cp38-abi3-win_amd64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-0.4.2-cp38-abi3-win_amd64.whl) | 90.2 MiB | `other` |
+| [datui-v0.4.2-aarch64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-v0.4.2-aarch64-apple-darwin.tar.gz) | 36.2 MiB | `native/darwin/arm64` |
+| [datui-v0.4.2-aarch64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-v0.4.2-aarch64-unknown-linux-gnu.tar.gz) | 33.8 MiB | `native/linux/arm64/glibc` |
+| [datui-v0.4.2-x86_64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-v0.4.2-x86_64-apple-darwin.tar.gz) | 39.4 MiB | `native/darwin/x64` |
+| [datui-v0.4.2-x86_64-pc-windows-msvc.zip](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-v0.4.2-x86_64-pc-windows-msvc.zip) | 41.4 MiB | `native/win/x64` |
+| [datui-v0.4.2-x86_64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui-v0.4.2-x86_64-unknown-linux-gnu.tar.gz) | 36.7 MiB | `native/linux/x64/glibc` |
+| [datui_0.4.2-1_amd64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui_0.4.2-1_amd64.deb) | 25.4 MiB | `runtime/deb/amd64` |
+| [datui_0.4.2-1_arm64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.2/datui_0.4.2-1_arm64.deb) | 21.7 MiB | `runtime/deb/arm64` |
+| [PKGBUILD](https://github.com/derekwisong/datui/releases/download/v0.4.2/PKGBUILD) | 1.6 KiB | `other` |
+| [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.4.2/SHA256SUMS) | 1.5 KiB | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.4.2/SHA256SUMS.sigstore.json) | 10.0 KiB | `other` |
 
 ## 改进这些数据
 
@@ -92,4 +96,4 @@ datui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:52:22Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T06:27:26Z._
