@@ -14,11 +14,11 @@ x install datui
 
 ## Code insight
 
-Total: **321,092** lines of code across **646** files in the top 5 languages.
+Total: **321,751** lines of code across **646** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 309,587 | 9,587 | 19,973 | 586 |
+| Rust | 310,246 | 9,661 | 20,007 | 586 |
 | Python | 7,693 | 357 | 1,143 | 27 |
 | Toml | 1,577 | 326 | 198 | 18 |
 | Sh | 863 | 126 | 63 | 6 |
@@ -42,50 +42,50 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.4.5` (2026-10-10)
+- **Latest**: `v0.4.7` (2026-10-10)
 - **Last commit**: 2026-10-10
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 135 · **Forks**: 5 · **Open issues**: 279 · **Contributors**: 4
+- **Stars**: 136 · **Forks**: 5 · **Open issues**: 279 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 508 · **Open PRs**: 0 · **Closed issues**: 278 · **Open issues**: 1 · **Commits**: 825
+- **Releases**: 62 · **Merged PRs**: 517 · **Open PRs**: 0 · **Closed issues**: 278 · **Open issues**: 1 · **Commits**: 834
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 7 | 420 | 0 | 269 | 1 | 420 |
-| last60d | 2026-08-11 | 10 | 466 | 0 | 270 | 1 | 475 |
-| 90d | 2026-07-12 | 10 | 469 | 0 | 271 | 1 | 479 |
-| last180d | 2026-04-13 | 13 | 479 | 0 | 271 | 1 | 494 |
-| 360d | 2025-10-15 | 60 | 508 | 0 | 278 | 1 | 824 |
-| last720d | 2024-10-20 | 60 | 508 | 0 | 278 | 1 | 825 |
+| 30d | 2026-09-11 | 9 | 424 | 0 | 269 | 1 | 363 |
+| last60d | 2026-08-12 | 11 | 475 | 0 | 270 | 1 | 484 |
+| 90d | 2026-07-13 | 12 | 478 | 0 | 271 | 1 | 487 |
+| last180d | 2026-04-14 | 15 | 488 | 0 | 271 | 1 | 503 |
+| 360d | 2025-10-16 | 62 | 517 | 0 | 278 | 1 | 833 |
+| last720d | 2024-10-21 | 62 | 517 | 0 | 278 | 1 | 834 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [datui-0.4.5-1.aarch64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-1.aarch64.rpm) | 25.3 MiB | `runtime/rpm/aarch64` |
-| [datui-0.4.5-1.x86_64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-1.x86_64.rpm) | 27.5 MiB | `runtime/rpm/x86_64` |
-| [datui-0.4.5-cp38-abi3-macosx_10_12_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-cp38-abi3-macosx_10_12_x86_64.whl) | 91.3 MiB | `native/darwin/x64` |
-| [datui-0.4.5-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-cp38-abi3-macosx_11_0_arm64.whl) | 86.7 MiB | `native/darwin/arm64` |
-| [datui-0.4.5-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-cp38-abi3-manylinux_2_28_aarch64.whl) | 79.2 MiB | `native/linux/arm64` |
-| [datui-0.4.5-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-cp38-abi3-manylinux_2_28_x86_64.whl) | 84.6 MiB | `native/linux/x64` |
-| [datui-0.4.5-cp38-abi3-win_amd64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-0.4.5-cp38-abi3-win_amd64.whl) | 90.8 MiB | `other` |
-| [datui-v0.4.5-aarch64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-v0.4.5-aarch64-apple-darwin.tar.gz) | 36.4 MiB | `native/darwin/arm64` |
-| [datui-v0.4.5-aarch64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-v0.4.5-aarch64-unknown-linux-gnu.tar.gz) | 33.9 MiB | `native/linux/arm64/glibc` |
-| [datui-v0.4.5-x86_64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-v0.4.5-x86_64-apple-darwin.tar.gz) | 39.5 MiB | `native/darwin/x64` |
-| [datui-v0.4.5-x86_64-pc-windows-msvc.zip](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-v0.4.5-x86_64-pc-windows-msvc.zip) | 41.5 MiB | `native/win/x64` |
-| [datui-v0.4.5-x86_64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui-v0.4.5-x86_64-unknown-linux-gnu.tar.gz) | 36.8 MiB | `native/linux/x64/glibc` |
-| [datui_0.4.5-1_amd64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui_0.4.5-1_amd64.deb) | 25.5 MiB | `runtime/deb/amd64` |
-| [datui_0.4.5-1_arm64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.5/datui_0.4.5-1_arm64.deb) | 21.8 MiB | `runtime/deb/arm64` |
-| [PKGBUILD](https://github.com/derekwisong/datui/releases/download/v0.4.5/PKGBUILD) | 1.6 KiB | `other` |
-| [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.4.5/SHA256SUMS) | 1.5 KiB | `other` |
-| [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.4.5/SHA256SUMS.sigstore.json) | 10.0 KiB | `other` |
+| [datui-0.4.7-1.aarch64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-1.aarch64.rpm) | 25.3 MiB | `runtime/rpm/aarch64` |
+| [datui-0.4.7-1.x86_64.rpm](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-1.x86_64.rpm) | 27.5 MiB | `runtime/rpm/x86_64` |
+| [datui-0.4.7-cp38-abi3-macosx_10_12_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-cp38-abi3-macosx_10_12_x86_64.whl) | 91.3 MiB | `native/darwin/x64` |
+| [datui-0.4.7-cp38-abi3-macosx_11_0_arm64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-cp38-abi3-macosx_11_0_arm64.whl) | 86.7 MiB | `native/darwin/arm64` |
+| [datui-0.4.7-cp38-abi3-manylinux_2_28_aarch64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-cp38-abi3-manylinux_2_28_aarch64.whl) | 79.3 MiB | `native/linux/arm64` |
+| [datui-0.4.7-cp38-abi3-manylinux_2_28_x86_64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-cp38-abi3-manylinux_2_28_x86_64.whl) | 84.6 MiB | `native/linux/x64` |
+| [datui-0.4.7-cp38-abi3-win_amd64.whl](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-0.4.7-cp38-abi3-win_amd64.whl) | 90.8 MiB | `other` |
+| [datui-v0.4.7-aarch64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-v0.4.7-aarch64-apple-darwin.tar.gz) | 36.4 MiB | `native/darwin/arm64` |
+| [datui-v0.4.7-aarch64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-v0.4.7-aarch64-unknown-linux-gnu.tar.gz) | 33.9 MiB | `native/linux/arm64/glibc` |
+| [datui-v0.4.7-x86_64-apple-darwin.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-v0.4.7-x86_64-apple-darwin.tar.gz) | 39.5 MiB | `native/darwin/x64` |
+| [datui-v0.4.7-x86_64-pc-windows-msvc.zip](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-v0.4.7-x86_64-pc-windows-msvc.zip) | 41.5 MiB | `native/win/x64` |
+| [datui-v0.4.7-x86_64-unknown-linux-gnu.tar.gz](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui-v0.4.7-x86_64-unknown-linux-gnu.tar.gz) | 36.8 MiB | `native/linux/x64/glibc` |
+| [datui_0.4.7-1_amd64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui_0.4.7-1_amd64.deb) | 25.5 MiB | `runtime/deb/amd64` |
+| [datui_0.4.7-1_arm64.deb](https://github.com/derekwisong/datui/releases/download/v0.4.7/datui_0.4.7-1_arm64.deb) | 21.8 MiB | `runtime/deb/arm64` |
+| [PKGBUILD](https://github.com/derekwisong/datui/releases/download/v0.4.7/PKGBUILD) | 1.6 KiB | `other` |
+| [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.4.7/SHA256SUMS) | 1.5 KiB | `other` |
+| [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.4.7/SHA256SUMS.sigstore.json) | 10.1 KiB | `other` |
 
 ## Improve this data
 
@@ -96,4 +96,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:14:21Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:10:31Z._
