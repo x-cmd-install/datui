@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 8 | 424 | 0 | 269 | 1 | 363 |
-| last60d | 2026-08-13 | 11 | 475 | 0 | 270 | 1 | 484 |
-| 90d | 2026-07-14 | 12 | 478 | 0 | 271 | 1 | 487 |
-| last180d | 2026-04-15 | 15 | 488 | 0 | 271 | 1 | 503 |
-| 360d | 2025-10-17 | 62 | 517 | 0 | 278 | 1 | 833 |
-| last720d | 2024-10-22 | 62 | 517 | 0 | 278 | 1 | 834 |
+| 30d | 2026-09-13 | 8 | 419 | 0 | 267 | 1 | 363 |
+| last60d | 2026-08-14 | 11 | 475 | 0 | 270 | 1 | 484 |
+| 90d | 2026-07-15 | 12 | 478 | 0 | 271 | 1 | 487 |
+| last180d | 2026-04-16 | 15 | 488 | 0 | 271 | 1 | 503 |
+| 360d | 2025-10-18 | 62 | 517 | 0 | 278 | 1 | 833 |
+| last720d | 2024-10-23 | 62 | 517 | 0 | 278 | 1 | 834 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:29:40Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:23:36Z._
