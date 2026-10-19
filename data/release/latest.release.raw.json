@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 38155314,
       "digest": "sha256:fbc40109e3ed30c322d327162b16c00d43918574ef9c2e9664bd1e4f4f7dd467",
-      "download_count": 9,
+      "download_count": 13,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:54Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui-v0.4.12-aarch64-apple-darwin.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 35581868,
       "digest": "sha256:752ede1c867b36137d202c55857cec2a89888e00037f0494c8dcc663f57ce959",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:54Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui-v0.4.12-aarch64-unknown-linux-gnu.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 41441790,
       "digest": "sha256:3599e38248fdec747f579c0a3dc69815515c5bff91237980c05485c4a6c43462",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:55Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui-v0.4.12-x86_64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 43600166,
       "digest": "sha256:b96b73c327495159c01845efa73a0edb93ed67a0d247dd8237ca70a8cc549499",
-      "download_count": 37,
+      "download_count": 49,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:55Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui-v0.4.12-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 38632151,
       "digest": "sha256:135975c3d90812ac0fc0dd194c97c3ddfc69b322ed61eb04d232f67f8d5a055a",
-      "download_count": 17,
+      "download_count": 25,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:54Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui-v0.4.12-x86_64-unknown-linux-gnu.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 26759500,
       "digest": "sha256:0da57a4261e3a1507238bc155ba9076affcba84e31eedb84227674d72865019d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-10-16T23:16:50Z",
       "updated_at": "2026-10-16T23:16:53Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.12/datui_0.4.12-1_amd64.deb"
