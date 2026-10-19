@@ -14,13 +14,13 @@ x install datui
 
 ## Code insight
 
-Total: **322,522** lines of code across **648** files in the top 5 languages.
+Total: **322,566** lines of code across **648** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 311,017 | 9,694 | 20,058 | 588 |
+| Rust | 311,058 | 9,697 | 20,060 | 588 |
 | Python | 7,693 | 357 | 1,143 | 27 |
-| Toml | 1,577 | 326 | 198 | 18 |
+| Toml | 1,580 | 337 | 199 | 18 |
 | Sh | 863 | 126 | 63 | 6 |
 | Svg | 711 | 0 | 0 | 9 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.12` (2026-10-16)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-18
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 67 · **Merged PRs**: 535 · **Open PRs**: 0 · **Closed issues**: 279 · **Open issues**: 1 · **Commits**: 852
+- **Releases**: 67 · **Merged PRs**: 536 · **Open PRs**: 0 · **Closed issues**: 279 · **Open issues**: 1 · **Commits**: 853
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 13 | 368 | 0 | 246 | 1 | 335 |
-| last60d | 2026-08-19 | 16 | 493 | 0 | 271 | 1 | 501 |
-| 90d | 2026-07-20 | 17 | 495 | 0 | 272 | 1 | 505 |
-| last180d | 2026-04-21 | 20 | 506 | 0 | 272 | 1 | 521 |
-| 360d | 2025-10-23 | 67 | 535 | 0 | 279 | 1 | 851 |
-| last720d | 2024-10-28 | 67 | 535 | 0 | 279 | 1 | 852 |
+| 30d | 2026-09-19 | 13 | 363 | 0 | 243 | 1 | 336 |
+| last60d | 2026-08-20 | 16 | 494 | 0 | 271 | 1 | 502 |
+| 90d | 2026-07-21 | 17 | 496 | 0 | 272 | 1 | 506 |
+| last180d | 2026-04-22 | 20 | 507 | 0 | 272 | 1 | 522 |
+| 360d | 2025-10-24 | 67 | 536 | 0 | 279 | 1 | 852 |
+| last720d | 2024-10-29 | 67 | 536 | 0 | 279 | 1 | 853 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:56:41Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:09:00Z._
