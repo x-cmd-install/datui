@@ -14,11 +14,11 @@ x install datui
 
 ## Code insight
 
-Total: **322,566** lines of code across **648** files in the top 5 languages.
+Total: **322,580** lines of code across **648** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 311,058 | 9,697 | 20,060 | 588 |
+| Rust | 311,072 | 9,701 | 20,061 | 588 |
 | Python | 7,693 | 357 | 1,143 | 27 |
 | Toml | 1,580 | 337 | 199 | 18 |
 | Sh | 863 | 126 | 63 | 6 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.13` (2026-10-19)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-22
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 68 · **Merged PRs**: 539 · **Open PRs**: 4 · **Closed issues**: 279 · **Open issues**: 2 · **Commits**: 856
+- **Releases**: 68 · **Merged PRs**: 540 · **Open PRs**: 0 · **Closed issues**: 280 · **Open issues**: 1 · **Commits**: 857
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 14 | 345 | 4 | 226 | 2 | 339 |
-| last60d | 2026-08-23 | 17 | 497 | 4 | 271 | 2 | 505 |
-| 90d | 2026-07-24 | 18 | 499 | 4 | 272 | 2 | 509 |
-| last180d | 2026-04-25 | 21 | 510 | 4 | 272 | 2 | 525 |
-| 360d | 2025-10-27 | 68 | 539 | 4 | 279 | 2 | 855 |
-| last720d | 2024-11-01 | 68 | 539 | 4 | 279 | 2 | 856 |
+| 30d | 2026-09-23 | 14 | 344 | 0 | 225 | 1 | 340 |
+| last60d | 2026-08-24 | 17 | 498 | 0 | 272 | 1 | 506 |
+| 90d | 2026-07-25 | 18 | 500 | 0 | 273 | 1 | 510 |
+| last180d | 2026-04-26 | 21 | 511 | 0 | 273 | 1 | 526 |
+| 360d | 2025-10-28 | 68 | 540 | 0 | 280 | 1 | 856 |
+| last720d | 2024-11-02 | 68 | 540 | 0 | 280 | 1 | 857 |
 
 ## Release assets
 
@@ -87,6 +87,10 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.4.13/SHA256SUMS) | 1.5 KiB | `other` |
 | [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.4.13/SHA256SUMS.sigstore.json) | 10.3 KiB | `other` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/datui). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `datui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:16:27Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:22:27Z._
