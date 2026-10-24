@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 38154653,
       "digest": "sha256:d87276126e3b0e08f8984fab064720d677c4ad5cf95a310b50325d7e6f0f9337",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-10-19T13:29:15Z",
       "updated_at": "2026-10-19T13:29:19Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.13/datui-v0.4.13-aarch64-apple-darwin.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 43603375,
       "digest": "sha256:cb11e104c03332f28ae275d584d9ff230b1acb5fce1ea4b0dff77afc9dffffaf",
-      "download_count": 65,
+      "download_count": 75,
       "created_at": "2026-10-19T13:29:15Z",
       "updated_at": "2026-10-19T13:29:19Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.13/datui-v0.4.13-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 38633568,
       "digest": "sha256:4936a013fbce708ec343993737d21b411e0431da8c4bf7dfd395c0568240e8aa",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-10-19T13:29:15Z",
       "updated_at": "2026-10-19T13:29:19Z",
       "browser_download_url": "https://github.com/derekwisong/datui/releases/download/v0.4.13/datui-v0.4.13-x86_64-unknown-linux-gnu.tar.gz"
