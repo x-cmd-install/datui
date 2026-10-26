@@ -14,9 +14,9 @@
   srcname: databases/datui
   binname: datui
   visiblename: databases/datui
-  version: 0.4.3
+  version: 0.4.15
   origversion: null
-  status: outdated
+  status: newest
   summary: Data exploration in the terminal
   maintainers:
     - olgeni@freebsd.org
