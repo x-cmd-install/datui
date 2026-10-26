@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 16 | 358 | 0 | 223 | 1 | 211 |
-| last60d | 2026-08-26 | 19 | 521 | 0 | 275 | 1 | 529 |
-| 90d | 2026-07-27 | 20 | 523 | 0 | 276 | 1 | 533 |
-| last180d | 2026-04-28 | 23 | 534 | 0 | 276 | 1 | 549 |
-| 360d | 2025-10-30 | 70 | 563 | 0 | 283 | 1 | 879 |
-| last720d | 2024-11-04 | 70 | 563 | 0 | 283 | 1 | 880 |
+| 30d | 2026-09-26 | 16 | 344 | 0 | 223 | 1 | 211 |
+| last60d | 2026-08-27 | 19 | 521 | 0 | 275 | 1 | 529 |
+| 90d | 2026-07-28 | 20 | 523 | 0 | 276 | 1 | 533 |
+| last180d | 2026-04-29 | 23 | 534 | 0 | 276 | 1 | 549 |
+| 360d | 2025-10-31 | 70 | 563 | 0 | 283 | 1 | 879 |
+| last720d | 2024-11-05 | 70 | 563 | 0 | 283 | 1 | 880 |
 
 ## Release assets
 
@@ -89,7 +89,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **2** distros on [repology.org](https://repology.org/project/datui). **1** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
+Reported by **2** distros on [repology.org](https://repology.org/project/datui). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
 ## Improve this data
 
@@ -100,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:07:14Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:12:20Z._
