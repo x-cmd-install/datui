@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 137 · **Forks**: 5 · **Open issues**: 284 · **Contributors**: 4
+- **Stars**: 137 · **Forks**: 5 · **Open issues**: 285 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 564 · **Open PRs**: 5 · **Closed issues**: 283 · **Open issues**: 1 · **Commits**: 881
+- **Releases**: 70 · **Merged PRs**: 564 · **Open PRs**: 5 · **Closed issues**: 283 · **Open issues**: 2 · **Commits**: 881
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 16 | 274 | 5 | 167 | 1 | 212 |
-| last60d | 2026-08-31 | 19 | 522 | 5 | 275 | 1 | 530 |
-| 90d | 2026-08-01 | 20 | 524 | 5 | 276 | 1 | 534 |
-| last180d | 2026-05-03 | 23 | 534 | 5 | 276 | 1 | 550 |
-| 360d | 2025-11-04 | 70 | 564 | 5 | 283 | 1 | 880 |
-| last720d | 2024-11-09 | 70 | 564 | 5 | 283 | 1 | 881 |
+| 30d | 2026-10-01 | 16 | 214 | 5 | 119 | 2 | 212 |
+| last60d | 2026-09-01 | 19 | 522 | 5 | 275 | 2 | 530 |
+| 90d | 2026-08-02 | 20 | 524 | 5 | 276 | 2 | 534 |
+| last180d | 2026-05-04 | 23 | 534 | 5 | 276 | 2 | 550 |
+| 360d | 2025-11-05 | 70 | 564 | 5 | 283 | 2 | 880 |
+| last720d | 2024-11-10 | 70 | 564 | 5 | 283 | 2 | 881 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:18:14Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:04:31Z._
