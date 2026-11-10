@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 21 existing vulnerabilities detected
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 137 · **Forks**: 5 · **Open issues**: 285 · **Contributors**: 4
+- **Stars**: 138 · **Forks**: 5 · **Open issues**: 285 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 565 · **Open PRs**: 7 · **Closed issues**: 284 · **Open issues**: 1 · **Commits**: 882
+- **Releases**: 70 · **Merged PRs**: 565 · **Open PRs**: 12 · **Closed issues**: 284 · **Open issues**: 1 · **Commits**: 882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 11 | 48 | 7 | 6 | 0 | 34 |
-| last60d | 2026-09-10 | 17 | 477 | 7 | 275 | 1 | 443 |
-| 90d | 2026-08-11 | 20 | 523 | 7 | 276 | 1 | 532 |
-| last180d | 2026-05-13 | 23 | 535 | 7 | 277 | 1 | 546 |
-| 360d | 2025-11-14 | 70 | 565 | 7 | 284 | 1 | 881 |
-| last720d | 2024-11-19 | 70 | 565 | 7 | 284 | 1 | 882 |
+| 30d | 2026-10-11 | 8 | 48 | 12 | 6 | 0 | 34 |
+| last60d | 2026-09-11 | 17 | 472 | 12 | 275 | 1 | 443 |
+| 90d | 2026-08-12 | 19 | 523 | 12 | 276 | 1 | 532 |
+| last180d | 2026-05-14 | 23 | 535 | 12 | 277 | 1 | 546 |
+| 360d | 2025-11-15 | 70 | 565 | 12 | 284 | 1 | 881 |
+| last720d | 2024-11-20 | 70 | 565 | 12 | 284 | 1 | 882 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:08:19Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:53:05Z._

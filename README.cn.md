@@ -32,7 +32,7 @@ x install datui
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 19 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 21 existing vulnerabilities detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install datui
 
 ## 流行度
 
-- **Star**: 137 · **Fork**: 5 · **开放 issue**: 285 · **贡献者**: 4
+- **Star**: 138 · **Fork**: 5 · **开放 issue**: 285 · **贡献者**: 4
 
 ## 累计统计
 
-- **发布数**: 70 · **已合并 PR**: 565 · **开放 PR**: 7 · **已关闭 issue**: 284 · **开放 issue**: 1 · **提交数**: 882
+- **发布数**: 70 · **已合并 PR**: 565 · **开放 PR**: 12 · **已关闭 issue**: 284 · **开放 issue**: 1 · **提交数**: 882
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 11 | 48 | 7 | 6 | 0 | 34 |
-| last60d | 2026-09-10 | 17 | 477 | 7 | 275 | 1 | 443 |
-| 90d | 2026-08-11 | 20 | 523 | 7 | 276 | 1 | 532 |
-| last180d | 2026-05-13 | 23 | 535 | 7 | 277 | 1 | 546 |
-| 360d | 2025-11-14 | 70 | 565 | 7 | 284 | 1 | 881 |
-| last720d | 2024-11-19 | 70 | 565 | 7 | 284 | 1 | 882 |
+| 30d | 2026-10-11 | 8 | 48 | 12 | 6 | 0 | 34 |
+| last60d | 2026-09-11 | 17 | 472 | 12 | 275 | 1 | 443 |
+| 90d | 2026-08-12 | 19 | 523 | 12 | 276 | 1 | 532 |
+| last180d | 2026-05-14 | 23 | 535 | 12 | 277 | 1 | 546 |
+| 360d | 2025-11-15 | 70 | 565 | 12 | 284 | 1 | 881 |
+| last720d | 2024-11-20 | 70 | 565 | 12 | 284 | 1 | 882 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ datui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261109.yml` · 2026-11-09T07:08:20Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:53:05Z._
