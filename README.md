@@ -14,11 +14,11 @@ x install datui
 
 ## Code insight
 
-Total: **332,948** lines of code across **653** files in the top 5 languages.
+Total: **332,947** lines of code across **653** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 321,080 | 9,964 | 20,574 | 591 |
+| Rust | 321,079 | 9,964 | 20,574 | 591 |
 | Python | 7,693 | 357 | 1,143 | 27 |
 | Toml | 1,610 | 347 | 202 | 19 |
 | Svg | 1,040 | 0 | 0 | 10 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.4.15` (2026-10-25)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-11
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 70 · **Merged PRs**: 565 · **Open PRs**: 12 · **Closed issues**: 284 · **Open issues**: 1 · **Commits**: 882
+- **Releases**: 70 · **Merged PRs**: 566 · **Open PRs**: 0 · **Closed issues**: 284 · **Open issues**: 1 · **Commits**: 883
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 8 | 48 | 12 | 6 | 0 | 34 |
-| last60d | 2026-09-12 | 16 | 472 | 12 | 275 | 1 | 443 |
-| 90d | 2026-08-13 | 19 | 523 | 12 | 276 | 1 | 532 |
-| last180d | 2026-05-15 | 23 | 534 | 12 | 277 | 1 | 546 |
-| 360d | 2025-11-16 | 70 | 565 | 12 | 284 | 1 | 881 |
-| last720d | 2024-11-21 | 70 | 565 | 12 | 284 | 1 | 882 |
+| 30d | 2026-10-13 | 8 | 46 | 0 | 6 | 0 | 35 |
+| last60d | 2026-09-13 | 16 | 468 | 0 | 273 | 1 | 444 |
+| 90d | 2026-08-14 | 19 | 524 | 0 | 276 | 1 | 533 |
+| last180d | 2026-05-16 | 22 | 534 | 0 | 277 | 1 | 547 |
+| 360d | 2025-11-17 | 70 | 566 | 0 | 284 | 1 | 882 |
+| last720d | 2024-11-22 | 70 | 566 | 0 | 284 | 1 | 883 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:54:18Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:02:31Z._
