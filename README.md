@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Vulnerabilities** (0/10) — 21 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 24 existing vulnerabilities detected
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 4 | 31 | 0 | 5 | 0 | 26 |
-| last60d | 2026-09-16 | 16 | 430 | 0 | 259 | 1 | 372 |
-| 90d | 2026-08-17 | 19 | 524 | 0 | 276 | 1 | 533 |
-| last180d | 2026-05-19 | 22 | 534 | 0 | 277 | 1 | 546 |
-| 360d | 2025-11-20 | 70 | 566 | 0 | 284 | 1 | 882 |
-| last720d | 2024-11-25 | 70 | 566 | 0 | 284 | 1 | 883 |
+| 30d | 2026-10-17 | 3 | 31 | 0 | 5 | 0 | 26 |
+| last60d | 2026-09-17 | 16 | 412 | 0 | 255 | 1 | 372 |
+| 90d | 2026-08-18 | 19 | 524 | 0 | 276 | 1 | 533 |
+| last180d | 2026-05-20 | 22 | 534 | 0 | 277 | 1 | 546 |
+| 360d | 2025-11-21 | 70 | 566 | 0 | 284 | 1 | 882 |
+| last720d | 2024-11-26 | 70 | 566 | 0 | 284 | 1 | 883 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:13:13Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:29:21Z._
