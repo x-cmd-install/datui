@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 30 | 16 | 5 | 1 | 26 |
-| last60d | 2026-09-18 | 16 | 399 | 16 | 251 | 2 | 372 |
-| 90d | 2026-08-19 | 19 | 524 | 16 | 276 | 2 | 533 |
-| last180d | 2026-05-21 | 22 | 534 | 16 | 277 | 2 | 546 |
-| 360d | 2025-11-22 | 70 | 566 | 16 | 284 | 2 | 882 |
-| last720d | 2024-11-27 | 70 | 566 | 16 | 284 | 2 | 883 |
+| 30d | 2026-10-20 | 2 | 27 | 16 | 5 | 1 | 26 |
+| last60d | 2026-09-20 | 16 | 393 | 16 | 248 | 2 | 372 |
+| 90d | 2026-08-21 | 19 | 524 | 16 | 276 | 2 | 533 |
+| last180d | 2026-05-23 | 22 | 534 | 16 | 277 | 2 | 546 |
+| 360d | 2025-11-24 | 70 | 566 | 16 | 284 | 2 | 882 |
+| last720d | 2024-11-29 | 70 | 566 | 16 | 284 | 2 | 883 |
 
 ## Release assets
 
@@ -87,6 +87,10 @@ Lowest-scoring checks:
 | [SHA256SUMS](https://github.com/derekwisong/datui/releases/download/v0.4.15/SHA256SUMS) | 1.5 KiB | `other` |
 | [SHA256SUMS.sigstore.json](https://github.com/derekwisong/datui/releases/download/v0.4.15/SHA256SUMS.sigstore.json) | 10.1 KiB | `other` |
 
+## Distribution status
+
+Reported by **2** distros on [repology.org](https://repology.org/project/datui). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+
 ## Improve this data
 
 Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `datui` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -96,4 +100,4 @@ Install metadata for datui lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:29:29Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:40:24Z._
